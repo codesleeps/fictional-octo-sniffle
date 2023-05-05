@@ -5,7 +5,6 @@ A README template with Git profile and social links
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleeps/fictional-octo-sniffle/assets/img/lines/colored.png)(#fictional-octo-sniffle)
 
 ## ➤ Badges 🥇
 
@@ -15,7 +14,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#badges)
 
 ## ➤ Deployment 🚀
 
@@ -24,19 +22,16 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#deployment)
 
 ## ➤ Description
 
 Put description about app here.......
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#description)
 
 ## ➤ Documentation 📄
 
 [Documentation](https://linktodocumentation)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#documentation)
 
 ## ➤ Features 🦾
 
@@ -45,7 +40,6 @@ Put description about app here.......
 - Fullscreen mode
 - Cross platform
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#features)
 
 ## ➤ Installation 🧭
 
@@ -56,24 +50,20 @@ Install my-project with npm
   cd my-project
 ```
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#installation)
     
 ## ➤ License ✅
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#license)
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#logo)
 
 ## ➤ Screenshots 📸
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#screenshots)
 
 ## ➤ Usage/Examples 🕓
 
@@ -85,7 +75,6 @@ function App() {
 }
 ```
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#usage-examples)
 
 ## ➤ Used By 🌍
 
@@ -94,7 +83,6 @@ This project is used by the following companies:
 - Company 1
 - Company 2
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#used-by)
 
 ## ➤ Acknowledgements 🎓
 
@@ -103,7 +91,6 @@ This project is used by the following companies:
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#acknowledgements)
 
 
 ## ➤ API Reference 🤖
@@ -132,13 +119,11 @@ This project is used by the following companies:
 
 Takes two numbers and returns the sum.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#api-reference)
 
 ## ➤ Appendix 🎯
 
 Any additional information goes here
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#appendix)
 
 ## ➤ Authors 📚
 
@@ -153,7 +138,6 @@ Any additional information goes here
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#color-reference)
 
 ## ➤ Contributing 🆘
 
@@ -163,13 +147,11 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#contributing)
 
 ## ➤ Demo 😈
 
 Insert gif or link to demo
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#demo)
 
 ## ➤ Environment Variables 📡
 
@@ -180,7 +162,6 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#environment-variables)
 
 ## ➤ FAQ ⁉️
 
@@ -192,14 +173,12 @@ Answer 1
 
 Answer 2
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#faq)
 
 
 ## ➤ Feedback 
 
 If you have any feedback, please reach out to us at fake@fake.com
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#feedback)
 
 
 ## ➤  About Me 🚀
@@ -231,25 +210,21 @@ I'm a front end developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#about-me)
 
 ## ➤ Skills  🛠
 Javascript, HTML, CSS...
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#skills)
 
 
 ## ➤ Lessons Learned 🎓
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#lessons-learned)
 
 ## ➤ Optimizations 🏎️
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#optimizations)
 
 ## ➤ Related 👁️
 
@@ -257,7 +232,6 @@ Here are some related projects
 
 [Awesome README](https://github.com/matiassingers/awesome-readme)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#related)
 
 ## ➤ Roadmap 🔮
 
@@ -265,7 +239,6 @@ Here are some related projects
 
 - Add more integrations
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#roadmap)
 
 ## ➤ Run Locally 💻
 
@@ -293,14 +266,12 @@ Start the server
   npm run start
 ```
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#run-locally)
 
 ## ➤ Support 💻 📲 ☎️
 
 For support, email fake@fake.com or join our Slack channel.
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#support)
 
 
 ## ➤ Tech Stack 🖥️
@@ -309,7 +280,6 @@ For support, email fake@fake.com or join our Slack channel.
 
 **Server:** Node, Express
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#tech-stack)
 
 ## ➤ Running Tests 🧪
 
@@ -319,7 +289,6 @@ To run tests, run the following command
   npm run test
 ```
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#running-tests)
 
 ## ➤ VS Code - Extensions
 
@@ -332,7 +301,6 @@ To run tests, run the following command
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#vs-code-extensions)
 
 ## ➤ Additional resources
 
@@ -343,4 +311,3 @@ To run tests, run the following command
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#additional-resources)
