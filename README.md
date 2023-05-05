@@ -1,7 +1,7 @@
 
-# OPEN AI PROJECTS ⭐️
+# fictional-octo-sniffle ⭐️
 
-A brief description of what this project does and who it's for
+A README template with Git profile and social links
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
