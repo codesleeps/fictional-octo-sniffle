@@ -55,8 +55,8 @@ Install my-project with npm
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+![Logo](https://user-images.githubusercontent.com/125808990/236798119-ac0549aa-e5e2-484b-88b2-ed1107b4e7a2.png)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## ➤ Screenshots 📸
