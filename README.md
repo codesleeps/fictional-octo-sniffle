@@ -64,8 +64,8 @@ Install my-project with npm
 
 ## ➤ Screenshots 📸
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+![app](https://user-images.githubusercontent.com/125808990/236811148-a901e569-0b37-4568-a2d3-51e08af75177.png)
 
 
 ## ➤ Usage/Examples 🕓
