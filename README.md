@@ -58,7 +58,7 @@ Install my-project with npm
 
 ## ➤ Logo
 
-![Logo](https://user-images.githubusercontent.com/125808990/236798119-ac0549aa-e5e2-484b-88b2-ed1107b4e7a2.png)
+![Logo](https://user-images.githubusercontent.com/125808990/236810425-d459ac9d-1a2e-41f1-90fc-7e48f668be06.png)
 
 
 
